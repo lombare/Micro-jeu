@@ -38,7 +38,7 @@ class Mage(Personnage):
         ]
 
     def Defaite(self):
-        return "Je dois revoir mes incancations. La prochaine fois sera différente !"
+        return "Je dois revoir mes incantations. La prochaine fois sera différente !"
 
     def Victoire(self):
         return "De bonnes incantations, du talent et la magie fait le reste"
